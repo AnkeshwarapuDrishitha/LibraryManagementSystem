@@ -1,2 +1,17 @@
-# LibraryManagementSystem
-An interactive Library Management System designed to simplify book management with features like adding books, searching records, removing books, and seamless system navigation.
+# 📚 Library Management System
+
+A simple and efficient **Library Management System** developed to manage books easily. This project helps users organize and maintain library records through basic operations like adding, searching, and removing books.
+
+## ✨ Features
+
+- ➕ **Add Books** – Add new books to the library system.  
+- 🔍 **Search Books** – Search for books available in the library.  
+- ❌ **Remove Books** – Remove books from the library records.  
+- 🚪 **Exit System** – Safely exit the application.  
+
+## 🛠️ Technologies Used
+
+- **Programming Language:** (Add your language here – e.g., Python / Java / C++)
+- **Concepts Used:** File Handling / Data Structures / OOP (if applicable)
+
+## 📂 Project Structure
