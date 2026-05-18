@@ -11,7 +11,4 @@ A simple and efficient **Library Management System** developed to manage books e
 
 ## 🛠️ Technologies Used
 
-- **Programming Language:** (Add your language here – e.g., Python / Java / C++)
-- **Concepts Used:** File Handling / Data Structures / OOP (if applicable)
-
-## 📂 Project Structure
+- Programming Language:Java
